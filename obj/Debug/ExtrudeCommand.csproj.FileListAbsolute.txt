@@ -1,0 +1,11 @@
+E:\C# Projects\InventorAPI\ExtrudeCommand\bin\Debug\ExtrudeCommand.exe.config
+E:\C# Projects\InventorAPI\ExtrudeCommand\bin\Debug\ExtrudeCommand.exe
+E:\C# Projects\InventorAPI\ExtrudeCommand\bin\Debug\ExtrudeCommand.pdb
+E:\C# Projects\InventorAPI\ExtrudeCommand\obj\Debug\ExtrudeCommand.csproj.AssemblyReference.cache
+E:\C# Projects\InventorAPI\ExtrudeCommand\obj\Debug\ExtrudeCommand.csproj.ResolveComReference.cache
+E:\C# Projects\InventorAPI\ExtrudeCommand\obj\Debug\ExtrudeCommand.Form1.resources
+E:\C# Projects\InventorAPI\ExtrudeCommand\obj\Debug\ExtrudeCommand.Properties.Resources.resources
+E:\C# Projects\InventorAPI\ExtrudeCommand\obj\Debug\ExtrudeCommand.csproj.GenerateResource.cache
+E:\C# Projects\InventorAPI\ExtrudeCommand\obj\Debug\ExtrudeCommand.csproj.CoreCompileInputs.cache
+E:\C# Projects\InventorAPI\ExtrudeCommand\obj\Debug\ExtrudeCommand.exe
+E:\C# Projects\InventorAPI\ExtrudeCommand\obj\Debug\ExtrudeCommand.pdb
